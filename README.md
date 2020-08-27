@@ -6,7 +6,7 @@ https://www.udemy.com/course/web-projects-with-vanilla-javascript
 - Form Validator :white_check_mark:
 - Movie Seat Booking :white_check_mark:
 - Custom Video Player :white_check_mark:
-- Exchange Rate Calculator
+- Exchange Rate Calculator :white_check_mark:
 - DOM Array Methods Project
 - Menu Slider & Modal
 - Hangman Game
